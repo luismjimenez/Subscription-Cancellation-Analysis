@@ -1,4 +1,4 @@
-# Subscription-Cancelation-Analysis
+# Subscription-Cancellation-Analysis
 Analysis of user subscription cancellations to find out reasons behind cancellations and find opportunities to lower churn.
 
 # Executive Summary:
