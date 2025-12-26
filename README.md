@@ -14,7 +14,13 @@ Company leadership has noticed significant churn this year, which has had a sign
 - Data Visualization
 
 # Skills:
-
+- SQL
+- CTEs, CASE, Union, View creation
+- Data visualization
+- Data Wrangling
+- Data Cleaning
+- Data Science Notebook
+- Snowflake Data Warehouse
 
 # Results & Business Recommendations:
 
