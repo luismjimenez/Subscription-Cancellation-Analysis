@@ -9,7 +9,9 @@ This analysis uses user-reported cancellation reasons to identify trends and pro
 Company leadership has noticed significant churn this year, which has had a significant negative impact on revenue, so they're planning a company-wide retention effort. However, we don't currently have any insights or reporting on churn, so the analytics team has decided to analyze user-reported data from the product's cancellation workflow to identify trends in why users are cancelling.
 
 # Methodology:
-
+- Exploratory Data Analysis
+- Product Funnel Analysis
+- Data Visualization
 
 # Skills:
 
