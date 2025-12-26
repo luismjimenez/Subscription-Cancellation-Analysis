@@ -23,7 +23,9 @@ Company leadership has noticed significant churn this year, which has had a sign
 - Snowflake Data Warehouse
 
 # Results & Business Recommendations:
-
+Since most users have selected "Expensive" and "Not Useful" as reasons for canceling, we should roll out better onboarding and provide more help early in their subscription to ensure they understand the product and find it useful. If they find the product more useful and valuable, they may also become less cost-sensitive.
+For cost-conscious users, we could also implement a rescue tactic at the start of the cancellation workflow that offers a substantial discount to keep their subscription.
+Since the most common secondary cancellation reason is "Went to Competitor," we should research the market and ensure we stay up to date with industry trends.
 
 # Next Steps:
 
