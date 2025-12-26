@@ -29,5 +29,5 @@ Company leadership has noticed significant churn this year, which has had a sign
 
 # Next Steps:
 - Explore the engagement of canceled subscriptions and see how they interacted with the product. 
-- - What features did they or did they not use? How often did they use the product? What if we compare them to non-cancelled subscriptions? Does anything stand out that could inform future retention efforts?
+  - What features did they or did they not use? How often did they use the product? What if we compare them to non-cancelled subscriptions? Does anything stand out that could inform future retention efforts?
 - Work with the product manager to understand how we can improve the cancellation workflow by adding in rescue tactics and adding friction without increasing user frustration.
