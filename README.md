@@ -24,10 +24,11 @@ Company leadership has noticed significant churn this year, which has had a sign
 
 ## Results & Business Recommendations:
 **Results:**
+- 82% of users are selecting at least one additional cancellation reason (beyond the first required one), but most users are not selecting all three, which can suggest a lack of interest and frustration for the user.
 - 64% of the third reason was not selected.
 - Of users who did select a third reason, 'Bad customer service' was at the top at 23%.
 - About two-thirds (~68%) of first-reason responses found the product either 'Not Useful' or 'Expensive', while another 27% 'Went to a competitor'.
-- Not finding the product useful was the primary (first) reason at 36%.
+- Not finding the product useful was the primary (first) reason at 36%, followed by expensive at 32%.
 - 'Bad customer service' was the least selected first reason at just 5%.
 
 **Recommendations:**
