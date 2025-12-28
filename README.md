@@ -28,7 +28,7 @@ Company leadership has noticed significant churn this year, which has had a sign
 - Of users who did select a third reason, 'Bad customer service' was at the top at 23%.
 - About two-thirds (~68%) of first-reason responses found the product either 'Not Useful' or 'Expensive', while another 27% 'Went to a competitor'.
 - Not finding the product useful was the #1 reason at 36%.
-- 'Bad customer service' was the least selected first reason at just ~5%.
+- 'Bad customer service' was the least selected first reason at just 5%.
 
 **Recommendations:**
 - Do we need a third reason, or should we improve user experience by removing the third option?
