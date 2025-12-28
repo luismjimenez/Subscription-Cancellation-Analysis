@@ -22,7 +22,7 @@ Company leadership has noticed significant churn this year, which has had a sign
 - Data Science Notebook
 - Snowflake Data Warehouse
 
-# Results & Business Recommendations:
+## Results & Business Recommendations:
 **Results:**
 
 **Recommendations:**
