@@ -24,8 +24,8 @@ Company leadership has noticed significant churn this year, which has had a sign
 
 ## Results & Business Recommendations:
 **Results:**
-- 64% (just under 2 in 3 or almost two-thirds) of users did not select a third reason for cancellation.
-- 23% selected 'Bad customer service' as the third reason for cancelling.
+- 64% (just under 2 in 3 or almost two-thirds) of all users did not select a third reason for cancellation.
+- Of users who selected a third reason, 23% selected 'Bad customer service'.
 - ~45% of users selected either 'Expensive' or 'Went to a competitor' as a reason for cancelling subscription.
 - ~30% selected either 'Not useful' or 'Bad customer service.'
 - Not finding the product useful was the first reason users selected for cancelling their subscription, followed by 'expensive' and 'going to a competitor.'
